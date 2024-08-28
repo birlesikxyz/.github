@@ -4,7 +4,7 @@ Birleşik Dergi teknoloji alanında Türkçe yayın yapan bir dergidir. Özgür 
 
 # Belgelerin Lisansı
 
-Belgeler [CC BY-SA 4.0 or later](by-sa.markdown) ile ruhsatlanmıştır.
+Bize ait belgeler [CC BY-SA 4.0 or later](by-sa.markdown) ile ruhsatlanmıştır.
 
 # License
 
